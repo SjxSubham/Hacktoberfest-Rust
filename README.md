@@ -1,1 +1,2 @@
-<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Frust-3521686&psig=AOvVaw3jZfRbWe8lNVMKSDWmT_6U&ust=1718038648828000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiN--v-zoYDFQAAAAAdAAAAABAE" alt="rust" width="40" height="40"/>A journey of learning RUST</h1>
+
+<h1><img src="https://github.com/SjxSubham/Rust/assets/142329838/c276b246-c373-42d2-95b0-05abee48b33b" align= "left" alt="rust" width="40" height="40" href=""/> A journey of learning Rust </h1>
