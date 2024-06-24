@@ -60,17 +60,17 @@ fn main() {
         bottom_right: bottom_right,
     };
 
-    // Instantiate a unit struct
-    let _unit = Unit;
+        // Instantiate a unit struct
+        let _unit = Unit;
 
-    // Instantiate a tuple struct
-    let pair = Pair(1, 0.1);
+        // Instantiate a tuple struct
+        let pair = Pair(1, 0.1);
 
-    // Access the fields of a tuple struct
-    println!("pair contains {:?} and {:?}", pair.0, pair.1);
+        // Access the fields of a tuple struct
+        println!("pair contains {:?} and {:?}", pair.0, pair.1);
 
-    // Destructure a tuple struct
-    let Pair(integer, decimal) = pair;
+        // Destructure a tuple struct
+        let Pair(integer, decimal) = pair;
 
-    println!("pair contains {:?} and {:?}", integer, decimal);
+        println!("pair contains {:?} and {:?}", integer, decimal);
 }
