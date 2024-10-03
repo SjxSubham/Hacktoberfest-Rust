@@ -8,7 +8,7 @@
 <table>
 <tc>
 <td><B>
-1. Fork & Star the Repo 
+1. Fork & Star the Repo ⭐
   
   </td></B><td><b>
 2.  Clone the repo in your Local System</b></td><td><b>
