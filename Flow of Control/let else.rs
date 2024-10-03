@@ -18,6 +18,7 @@ fn get_count_item(s: &str) -> (u64, &str) {
     (count, item)
 }
 ```
+/// separate code
 ```
 fn main() {
     assert_eq!(get_count_item("3 chairs"), (3, "chairs"));
