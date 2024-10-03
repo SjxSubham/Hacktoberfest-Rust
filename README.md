@@ -6,7 +6,7 @@
 
 #### Instructions
 <table>
-<tr>
+<tc>
 <td><B>
 1. Fork & Star the Repo 
   
@@ -17,8 +17,6 @@
 5.  Add a short description about your PR</b></td><td><b>
 6.  Get your PR merged</b>
 </td>
-</tr>
+</tc>
 
 </table>
-![fork](https://github.com/user-attachments/assets/f4290b0d-40e0-4892-89a9-56f8ddafddff)
-![Screenshot 2024-10-03 105032](https://github.com/user-attachments/assets/b4f1f2b0-35ec-43b1-ac1b-530edf2cb3fb)
