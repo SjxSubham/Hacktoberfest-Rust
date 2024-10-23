@@ -56,6 +56,8 @@ fn main() {
         }
     }
 
+    // this loop will panic
+
     // Out of bound indexing on array causes compile time error.
     //println!("{}", xs[5]);
     // Out of bound indexing on slice causes runtime error.
