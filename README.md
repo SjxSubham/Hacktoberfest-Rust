@@ -18,5 +18,5 @@
 6.  Get your PR merged</b>
 </td>
 </tc>
-
+<img src="https://contrib.rocks/image?repo=SjxSubham/Hacktoberfest-Rust&cacheBuster=9876" href="https://github.com/SjxSubham/Hacktoberfest-Rust/graphs/contributors" />
 </table>
