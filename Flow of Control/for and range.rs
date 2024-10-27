@@ -14,6 +14,7 @@ fn main() {
             println!("{}", n);
         }
 
+        
         // Increment counter
         n += 1;
     }
