@@ -14,6 +14,7 @@ fn main() {
     println!("true OR false is {}", true || false);
     println!("NOT true is {}", !true);
 
+    
     // Bitwise operations
     println!("0011 AND 0101 is {:04b}", 0b0011u32 & 0b0101);
     println!("0011 OR 0101 is {:04b}", 0b0011u32 | 0b0101);
