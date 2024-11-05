@@ -16,6 +16,8 @@ fn drink(beverage: &str) {
     } else {
         println!("Some refreshing {} is all I need.", beverage);
     }
+
+    
 }
 
 fn main() {
